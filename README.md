@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **prct312@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Meeting Summary
+- 🔭 **I’m currently working on:** Automatic AI-generated summary
 - 🌱 **I’m currently learning:** Scaling Backend Applications
 - 👯 **I’m looking to collaborate on:** Spring Boot 
 - 💬 **Ask me about:** Collaboration, Tech Support
